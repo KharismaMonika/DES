@@ -1,7 +1,7 @@
 # TUGAS 1 IMPLEMENTASI DES dengan message padding CTR
 
 ## *KIJ F Kelompok 8:*
-- *51141000076 M. Faishal Ilham *
+- 51141000076 M. Faishal Ilham 
 - *5114100092 Kharisma Monika D.P.*
 
 ## PENDAHULUAN
