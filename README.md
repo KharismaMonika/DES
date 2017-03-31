@@ -25,4 +25,7 @@ Sebagai contoh, jika kita mengambil pesan plaintext "8787878787878787", dan meng
   Sedangkan nilai Li sendiri diperoleh dari Nilai Ri-1 untuk nilai 1 <= i <= 16.
 - menggabungkan R16 dengan L16 kemudian dipermutasikan untuk terakhir kali dengan tabel Invers Initial Permutasi(IP-1).
 
+## Referensi yang dipakai :
+- http://octarapribadi.blogspot.co.id/2012/10/contoh-enkripsi-dengan-algoritma-des.html
+- http://dhost.info/pasjagor/des/start.php?id=i1
 
