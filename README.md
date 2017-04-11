@@ -29,3 +29,15 @@ Sebagai contoh, jika kita mengambil pesan plaintext "8787878787878787", dan meng
 - http://octarapribadi.blogspot.co.id/2012/10/contoh-enkripsi-dengan-algoritma-des.html
 - http://dhost.info/pasjagor/des/start.php?id=i1
 
+
+# TUGAS 2 IMPLEMENTASI CHAT dengan ENKRIPSI DEKRIPSI DES
+
+## LANGKAH LANGKAH
+- Pesan dikirim dimasukkan dalam text, lalu di enkrip
+- Pesan dikirim 
+- Pesan yang diterima dimasukkan dalam text, di dekrip
+- Dibaca
+
+## Referensi 
+- Code Client Server Progjar
+- Code DES 
