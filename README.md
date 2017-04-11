@@ -32,6 +32,9 @@ Sebagai contoh, jika kita mengambil pesan plaintext "8787878787878787", dan meng
 
 # TUGAS 2 IMPLEMENTASI CHAT dengan ENKRIPSI DEKRIPSI DES
 
+## PENDAHULUAN
+Tugas ini merupakan chat sederhana menggunakan client dan server. Pesan yang dikirimkan dalam chat ini di enkripsi terlebih dahulu, baru dikirim. 
+
 ## LANGKAH LANGKAH
 - Pesan dikirim dimasukkan dalam text, lalu di enkrip
 - Pesan dikirim 
